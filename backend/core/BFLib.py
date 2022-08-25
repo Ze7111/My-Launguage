@@ -1,0 +1,2 @@
+def bflib(line):
+    pass
